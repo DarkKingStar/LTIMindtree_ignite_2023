@@ -6,23 +6,23 @@
 
 #### [Module 1: Programming Fundamentals](./Week%201/Module_1_Programming%20Fundamentals.md)
 
-1. [What is Programming?](./Week%201/Module_1_Programming%20Fundamentals.md#1-what-is-programming)
-2. [What is Algorithm, Pseudocode and Flowchart?](./Week%201/Module_1_Programming%20Fundamentals.md#2-what-is-algorithm-pseudocode-and-flowchart)
+1. [What is Programming?](./Week%201/Module_1_Programming%20Fundamentals.md#t1)
+2. [What is Algorithm, Pseudocode and Flowchart?](./Week%201/Module_1_Programming%20Fundamentals.md#t2)
 
 #### [Module 2: Java Programming Fundamentals](./Week%201/Module_2_Java%20Programming%20Fundamentals.md)
 
-1. Java Development Kit (JDK) Installation
-2. Eclipse Installation
-3. Writing Your First Java Program
-4. Primitive Data Types in Java
-5. Arithmetic Operators in Java
-6. Logical and Bitwise Operators
-7. Relational Operators in Java
-8. If - Condition
-9. Nested If - Condition
-10. Typecasting
+1. [Java Development Kit (JDK) Installation](./Week%201/Module_2_Java%20Programming%20Fundamentals.md#t1)
+2. [Eclipse Installation](./Week%201/Module_2_Java%20Programming%20Fundamentals.md#t2)
+3. [Writing Your First Java Program](./Week%201/Module_2_Java%20Programming%20Fundamentals.md#t3)
+4. [Primitive Data Types in Java](./Week%201/Module_2_Java%20Programming%20Fundamentals.md#t4)
+5. [Arithmetic Operators in Java](./Week%201/Module_2_Java%20Programming%20Fundamentals.md#t5)
+6. [Logical and Bitwise Operators](./Week%201/Module_2_Java%20Programming%20Fundamentals.md#t6)
+7. [Relational Operators in Java](./Week%201/Module_2_Java%20Programming%20Fundamentals.md#t7)
+8. [If - Condition](./Week%201/Module_2_Java%20Programming%20Fundamentals.md#t8)
+9. [Nested If - Condition](./Week%201/Module_2_Java%20Programming%20Fundamentals.md#t9)
+10. [Typecasting](./Week%201/Module_2_Java%20Programming%20Fundamentals.md#t10)
 
-#### [Module 3: Looping Statemen](./Week%201/Module_3_Looping%20Statements%20in%20Java.md)
+#### [Module 3: Looping Statement in Java](./Week%201/Module_3_Looping%20Statements%20in%20Java.md)
 
 1. For Loop in Java
 2. Hands-on Exercise on the "For" Loop
