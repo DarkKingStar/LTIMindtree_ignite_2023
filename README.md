@@ -6,8 +6,8 @@
 
 #### [Module 1: Programming Fundamentals](./Week%201/Module_1_Programming%20Fundamentals.md)
 
-1. What is Programming?
-2. What is Algorithm, Pseudocode and Flowchart?
+1. [What is Programming?](./Week%201/Module_1_Programming%20Fundamentals.md#1-what-is-programming)
+2. [What is Algorithm, Pseudocode and Flowchart?](./Week%201/Module_1_Programming%20Fundamentals.md#2-what-is-algorithm-pseudocode-and-flowchart)
 
 #### [Module 2: Java Programming Fundamentals](./Week%201/Module_2_Java%20Programming%20Fundamentals.md)
 
