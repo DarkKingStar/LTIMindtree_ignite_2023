@@ -68,9 +68,9 @@
 3. Array of Objects as Parameters
 4. Pass an array as return type in a method
 
-### Week 2
+### [Week 2]()
 
-#### Module 1: Database Design (5/5)
+#### [Module 1: Database Design]()
 
 1. What is Database and Its Types
 2. What is RDBMS, DBMS vs RDBMS
@@ -78,7 +78,7 @@
 4. Keys
 5. Fields Specifications
 
-#### Module 2: SQL Querying (6/6)
+#### [Module 2: SQL Querying]()
 
 1. What is Querying?
 2. The ANSI SQL Standard
@@ -87,14 +87,14 @@
 5. The Update Statement
 6. The Delete Statement
 
-#### Module 3: Your First Queries (4/4)
+#### [Module 3: Your First Queries]()
 
 1. The SELECT Statement
 2. Limiting Output Columns
 3. Formatting and Sorting Output
 4. Column Aliases
 
-#### Module 4: Filtering Your Results (5/5)
+#### [Module 4: Filtering Your Results]()
 
 1. The WHERE Clause
 2. Creating a Filter Condition
@@ -102,14 +102,14 @@
 4. More Filter Options
 5. Table Aliases
 
-#### Module 5: Subqueries (4/4)
+#### [Module 5: Subqueries]()
 
 1. Filtering Using Subqueries
 2. The EXISTS Clause
 3. Subqueries as an Alternative to Joins
 4. Derived Tables
 
-#### Module 6: Grouping Your Data (5/5)
+#### [Module 6: Grouping Your Data]()
 
 1. The GROUP BY Clause
 2. MySQL Aggregate Functions
@@ -117,14 +117,14 @@
 4. Using the SQL SUM Function
 5. Using the SQL Min and Max Functions
 
-#### Module 7: Consolidating Your Data (4/4)
+#### [Module 7: Consolidating Your Data]()
 
 1. Counting Records
 2. Common Aggregate Functions: SUM, AVG, MIN, MAX
 3. Do's and Don'ts When Consolidating
 4. Unions and Other Multiset Consolidations
 
-#### Module 8: Joining Tables (4/4)
+#### [Module 8: Joining Tables]()
 
 1. Inner Joins
 2. Outer Joins
