@@ -81,4 +81,4 @@ Here, `strNum` will be the string "42", and `concatNum` will be "The answer is 4
 Remember, `StringBuilder` and `StringBuffer` are mutable alternatives to `String` when you need to perform a large number of modifications on a string.
 
 
-[prev](./Module_4_Arrays.md)                    [next]()
+[prev](./Module_4_Arrays.md)                    [next](./Module_6_Object-Oriented%20Programming%20OOP%20Basics.md)

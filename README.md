@@ -50,7 +50,7 @@
 5. [String Replace Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
 6. [String Conversion Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
 
-#### [Module 6: OOPS Basics](./Week%201/)
+#### [Module 6: OOPS Basics](./Week%201/Module_6_Object-Oriented%20Programming%20OOP%20Basics.md)
 
 1. Concept of Classes and Objects
 2. Classes and Objects - Exercise 1
