@@ -43,12 +43,12 @@
 
 #### [Module 5: String, String builder, String buffer](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
 
-1. [String Basics](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
-2. [String Comparison Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
-3. [String Search Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
-4. [String (Cut) Slice Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
-5. [String Replace Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
-6. [String Conversion Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
+1. [String Basics](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md#1-string-basics)
+2. [String Comparison Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md#2-string-comparison-operations)
+3. [String Search Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md#3-string-search-operations)
+4. [String (Cut) Slice Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md#4-string-cut-slice-operations)
+5. [String Replace Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md#5-string-replace-operations)
+6. [String Conversion Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md#6-string-conversion-operations)
 
 #### [Module 6: OOPS Basics](./Week%201/Module_6_Object-Oriented%20Programming%20OOP%20Basics.md)
 
