@@ -41,14 +41,14 @@
 5. [Two-dimensional (2D) Arrays](./Week%201/Module_4_Arrays.md#5-two-dimensional-2d-arrays)
 6. [Two-dimensional (2D) Array Exercise](./Week%201/Module_4_Arrays.md#6-two-dimensional-2d-array-exercise)
 
-#### [Module 5: String, String builder, String buffer](./Week%201)
+#### [Module 5: String, String builder, String buffer](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
 
-1. String Basics
-2. String Comparison Operations
-3. String Search Operations
-4. String (Cut) Slice Operations
-5. String Replace Operations
-6. String Conversion Operations
+1. [String Basics](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
+2. [String Comparison Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
+3. [String Search Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
+4. [String (Cut) Slice Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
+5. [String Replace Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
+6. [String Conversion Operations](./Week%201/Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)
 
 #### [Module 6: OOPS Basics](./Week%201/)
 
