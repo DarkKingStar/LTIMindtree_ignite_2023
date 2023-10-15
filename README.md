@@ -2,6 +2,7 @@
 
 ## Syllabus
 
+<button><a href="#week-8">Week 8</a></button>
 [Week 1](#week-1) [Week 2](#week-2) [Week 3](#week-3) [Week 4](#week-4) [Week 5](#week-5) [Week 6](#week-6) [Week 7](#week-7) [Week 8](#week-8) [Week 9](#week-9)
 
 ### [Week 1](./Week%201)
