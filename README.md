@@ -2,15 +2,12 @@
 
 ## Syllabus
 
-[Week 1](#week-1)
-[Week 2](#week-2)
-[Week 3](#week-3)
-[Week 4](#week-4)
-[Week 5](#week-5)
-[Week 6](#week-6) 
-[Week 7](#week-7) 
-[Week 8](#week-8) 
-[Week 9](#week-9)
+|       Week       |                    Type                   | Modules  |
+| ---------------- | ----------------------------------------- | -------- |
+| [Week 1](#week-1)|                    Java                   |    7     |
+| [Week 2](#week-2)|                    DBMS                   |    8     |
+| [Week 3](#week-3)|   MongoDB - Html/Css Js cloud computing   |    4     |
+
 
 ### [Week 1](./Week%201)
 
