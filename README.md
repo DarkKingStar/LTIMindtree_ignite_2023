@@ -4,12 +4,12 @@
 
 ### [Week 1](./Week%201)
 
-#### Module 1: Programming Fundamentals (2/2)
+#### [Module 1: Programming Fundamentals] (./Week%201/Module_1_Programming Fundamentals.md)
 
 1. What is Programming?
 2. What is Algorithm, Pseudocode and Flowchart?
 
-#### Module 2: Java Programming Fundamentals (10/10)
+#### [Module 2: Java Programming Fundamentals] (./Week%201/Module_1_Java%20Programming%20Fundamentals.md)
 
 1. Java Development Kit (JDK) Installation
 2. Eclipse Installation
