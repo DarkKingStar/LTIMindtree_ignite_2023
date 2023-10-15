@@ -22,7 +22,7 @@
 9. Nested If - Condition
 10. Typecasting
 
-#### Module 3: Looping Statement (7/7)
+#### [Module 3: Looping Statemen](./week%201/Module_3_Looping%20Statements%20in%20Java.md)
 
 1. For Loop in Java
 2. Hands-on Exercise on the "For" Loop
@@ -32,7 +32,7 @@
 6. Loop "Break" and "Continue" Statements
 7. Switch Statement and Implementation in Java
 
-#### Module 4: Arrays (6/6)
+#### [Module 4: Arrays](./Week%201/Module_4_Arrays.md)
 
 1. Arrays in Java
 2. Array Object

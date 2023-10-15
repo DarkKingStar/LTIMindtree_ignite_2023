@@ -88,4 +88,3 @@ System.out.println("The sum of all elements is: " + sum);
 
 This program calculates the sum of all elements in the `matrix` array.
 
-These exercises should help you become more familiar with arrays and their usage in Java. If you have any questions or need further clarification, feel free to ask!
