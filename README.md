@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-### [Week 1]("./Week 1")
+### [Week 1](./Week%201)
 
 #### Module 1: Programming Fundamentals (2/2)
 
