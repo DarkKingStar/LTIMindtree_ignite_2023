@@ -217,3 +217,4 @@ int myInt = (int) myDouble; // Explicit typecasting, myInt will be 5
 
 Here, we're converting a `double` value (`5.5`) to an `int`. The fractional part is truncated, resulting in `5`.
 
+[prev](Module_1_Programming%20Fundamentals.md)              [next](./Module_3_Looping%20Statements%20in%20Java.md)

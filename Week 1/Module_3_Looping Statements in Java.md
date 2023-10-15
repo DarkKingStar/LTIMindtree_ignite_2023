@@ -123,3 +123,4 @@ System.out.println("Today is " + dayName);
 
 This `switch` statement checks the value of `day` and assigns the corresponding day name to `dayName`.
 
+[prev](./Module_2_Java%20Programming%20Fundamentals.md)                    [next](./Module_4_Arrays.md) 
