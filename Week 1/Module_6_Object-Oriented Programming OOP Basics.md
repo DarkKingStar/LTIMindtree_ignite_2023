@@ -123,4 +123,4 @@ class Example {
 
 `x` is accessible throughout the class, while `y` is only accessible within the `method`.
 
-[prev](./Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)                    [next]()
+[prev](./Module_5_Strings%20StringBuilder%20and%20StringBuffer.md)                    [next](./Module_7_Arrays%20as%20Object%20Args%20and%20Return%20Value.md)

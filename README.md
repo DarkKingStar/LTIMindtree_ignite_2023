@@ -52,21 +52,21 @@
 
 #### [Module 6: OOPS Basics](./Week%201/Module_6_Object-Oriented%20Programming%20OOP%20Basics.md)
 
-1. Concept of Classes and Objects
-2. Classes and Objects - Exercise 1
-3. Methods in Java
-4. Constructor
-5. this keyword
-6. Static Keyword
-7. Final keyword
-8. Scope of variables
+1. [Concept of Classes and Objects](./Week%201/Module_6_Object-Oriented%20Programming%20OOP%20Basics.md)
+2. [Classes and Objects - Exercise 1](./Week%201/Module_6_Object-Oriented%20Programming%20OOP%20Basics.md)
+3. [Methods in Java](./Week%201/Module_6_Object-Oriented%20Programming%20OOP%20Basics.md)
+4. [Constructor](./Week%201/Module_6_Object-Oriented%20Programming%20OOP%20Basics.md)
+5. [this keyword](./Week%201/Module_6_Object-Oriented%20Programming%20OOP%20Basics.md)
+6. [Static Keyword](./Week%201/Module_6_Object-Oriented%20Programming%20OOP%20Basics.md)
+7. [Final keyword](./Week%201/Module_6_Object-Oriented%20Programming%20OOP%20Basics.md)
+8. [Scope of variables](./Week%201/Module_6_Object-Oriented%20Programming%20OOP%20Basics.md)
 
-#### [Module 7: Arrays as Object, Args and Return value](./Week%201/)
+#### [Module 7: Arrays as Object, Args and Return value](./Week%201/Module_7_Arrays%20as%20Object%20Args%20and%20Return%20Value.md)
 
-1. Pass an array as parameters
-2. Array of Objects
-3. Array of Objects as Parameters
-4. Pass an array as return type in a method
+1. [Pass an array as parameters](./Week%201/Module_7_Arrays%20as%20Object%20Args%20and%20Return%20Value.md)
+2. [Array of Objects](./Week%201/Module_7_Arrays%20as%20Object%20Args%20and%20Return%20Value.md)
+3. [Array of Objects as Parameters](./Week%201/Module_7_Arrays%20as%20Object%20Args%20and%20Return%20Value.md)
+4. [Pass an array as return type in a method](./Week%201/Module_7_Arrays%20as%20Object%20Args%20and%20Return%20Value.md)
 
 ### [Week 2]()
 
