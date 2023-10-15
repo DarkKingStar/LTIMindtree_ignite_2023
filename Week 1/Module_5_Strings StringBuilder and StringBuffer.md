@@ -1,4 +1,4 @@
-# Module: Strings, StringBuilder, and StringBuffer
+# Module 5: Strings, StringBuilder, and StringBuffer
 
 ## 1. String Basics
 

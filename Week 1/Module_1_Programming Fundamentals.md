@@ -1,4 +1,4 @@
-# Programming Fundamentals
+# Module 1: Programming Fundamentals
 
 ## 1. What is Programming?
 

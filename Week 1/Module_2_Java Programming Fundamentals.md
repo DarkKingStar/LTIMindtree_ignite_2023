@@ -1,4 +1,4 @@
-# Java Programming Fundamentals
+# Module 2: Java Programming Fundamentals
 
 ## 1. Java Development Kit (JDK) Installation
 

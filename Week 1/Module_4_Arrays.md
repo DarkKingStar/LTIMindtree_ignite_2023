@@ -1,4 +1,4 @@
-# Arrays
+# Module 4: Arrays
 
 ## 1. Arrays in Java
 
