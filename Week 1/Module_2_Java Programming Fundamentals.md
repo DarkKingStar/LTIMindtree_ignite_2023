@@ -1,6 +1,6 @@
 # Java Programming Fundamentals
 
-## 1. Java Development Kit (JDK) Installation{#t1}
+## 1. Java Development Kit (JDK) Installation
 
 The Java Development Kit (JDK) is a software package that provides the tools needed for developing, testing, and running Java applications. Here's a step-by-step guide on how to install JDK:
 
@@ -14,7 +14,7 @@ The Java Development Kit (JDK) is a software package that provides the tools nee
    - Follow the installation wizard's prompts. You can choose the default settings for most options.
    - Once the installation is complete, verify the installation by opening a command prompt or terminal and typing `java -version`. It should display the installed Java version.
 
-## 2. Eclipse Installation {#t2}
+## 2. Eclipse Installation
 
 Eclipse is a widely used integrated development environment (IDE) for Java development. It provides a range of features to facilitate Java programming. Here's how to install Eclipse:
 
@@ -29,7 +29,7 @@ Eclipse is a widely used integrated development environment (IDE) for Java devel
    - Follow the installation wizard's prompts. You can choose the default settings for most options.
    - Once the installation is complete, launch Eclipse.
 
-## 3. Writing Your First Java Program {#t3}
+## 3. Writing Your First Java Program
 
 Now that you have the JDK and Eclipse set up, let's write a simple Java program:
 
@@ -64,7 +64,7 @@ Now that you have the JDK and Eclipse set up, let's write a simple Java program:
 
 Congratulations! You've successfully written and executed your first Java program.
 
-## 4. Primitive Data Types in Java {#t4}
+## 4. Primitive Data Types in Java
 
 In Java, primitive data types represent single values, and they are not objects. They include:
 
@@ -86,7 +86,7 @@ char letter = 'A';
 boolean isJavaFun = true;
 ```
 
-## 5. Arithmetic Operators in Java {#t5}
+## 5. Arithmetic Operators in Java
 
 Arithmetic operators perform mathematical operations on numerical values. They include `+` (addition), `-` (subtraction), `*` (multiplication), `/` (division), and `%` (modulo).
 
@@ -102,7 +102,7 @@ int quotient = a / b; // quotient = 2
 int remainder = a % b; // remainder = 0
 ```
 
-## 6. Logical and Bitwise Operators {#t6}
+## 6. Logical and Bitwise Operators
 
 Logical operators perform operations on boolean values. They include `&&` (logical AND), `||` (logical OR), and `!` (logical NOT).
 
@@ -124,7 +124,7 @@ int bitwiseOr = x | y; // bitwiseOr = 7 (Bitwise OR)
 int bitwiseXor = x ^ y; // bitwiseXor = 6 (Bitwise XOR)
 ```
 
-## 7. Relational Operators in Java {#t7}
+## 7. Relational Operators in Java
 
 Relational operators compare two values and return a boolean result. They include `==` (equal to), `!=` (not equal to), `>` (greater than), `<` (less than), `>=` (greater than or equal to), and `<=` (less than or equal to).
 
@@ -141,7 +141,7 @@ boolean isGreaterOrEqual = (p >= q); // isGreaterOrEqual = false
 boolean isLessOrEqual = (p <= q); // isLessOrEqual = true
 ```
 
-## 8. If - Condition {#t8}
+## 8. If - Condition
 
 The `if` statement allows you to execute a block of code if a specified condition is true.
 
@@ -154,7 +154,7 @@ if (num > 5) {
 }
 ```
 
-## 9. Nested If - Condition {#t9}
+## 9. Nested If - Condition
 
 You can use nested `if` statements to handle multiple conditions.
 
@@ -169,7 +169,7 @@ if (num > 5) {
 }
 ```
 
-## 10. Typecasting {#t10}
+## 10. Typecasting
 
 Typecasting is the process of converting a value from one data type to another. In Java, there are two types of typecasting: implicit (automatic) and explicit (manual).
 

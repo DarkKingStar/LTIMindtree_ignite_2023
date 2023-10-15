@@ -1,6 +1,6 @@
 # Programming Fundamentals
 
-## 1. What is Programming? {#t1}
+## 1. What is Programming?
 
 Programming is the process of instructing a computer to perform specific tasks or solve problems. It involves writing sets of instructions, also known as code, using a programming language that the computer can understand and execute. Programming allows us to automate tasks, manipulate data, and create applications ranging from simple scripts to complex software.
 
@@ -18,7 +18,7 @@ In this Java example, we have a simple program that prints "Hello, World!" to th
 
 ---
 
-## 2. What is Algorithm, Pseudocode, and Flowchart? {#t2}
+## 2. What is Algorithm, Pseudocode, and Flowchart?
 
 ### Algorithm:
 
