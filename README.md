@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-### Week 1
+### [Week 1](https://github.com/DarkKingStar/LTIMindtree_ignite_2023/tree/main/Week%201)
 
 #### Module 1: Programming Fundamentals (2/2)
 
