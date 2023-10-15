@@ -1,6 +1,6 @@
 # Java Programming Fundamentals
 
-## 1. Java Development Kit (JDK) Installation {#t1}
+## 1. Java Development Kit (JDK) Installation{#t1}
 
 The Java Development Kit (JDK) is a software package that provides the tools needed for developing, testing, and running Java applications. Here's a step-by-step guide on how to install JDK:
 
