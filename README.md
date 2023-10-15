@@ -41,7 +41,7 @@
 5. Two-dimensional (2D) Arrays
 6. Two-dimensional (2D) Array Exercise
 
-#### Module 5: String, String builder, String buffer (6/6)
+#### [Module 5: String, String builder, String buffer](./Week%201)
 
 1. String Basics
 2. String Comparison Operations
@@ -50,7 +50,7 @@
 5. String Replace Operations
 6. String Conversion Operations
 
-#### Module 6: OOPS Basics (8/8)
+#### [Module 6: OOPS Basics](./Week%201/)
 
 1. Concept of Classes and Objects
 2. Classes and Objects - Exercise 1
@@ -61,7 +61,7 @@
 7. Final keyword
 8. Scope of variables
 
-#### Module 7: Arrays as Object, Args and Return value (4/4)
+#### [Module 7: Arrays as Object, Args and Return value](./Week%201/)
 
 1. Pass an array as parameters
 2. Array of Objects
