@@ -24,22 +24,22 @@
 
 #### [Module 3: Looping Statemen](./Week%201/Module_3_Looping%20Statements%20in%20Java.md)
 
-1. For Loop in Java
-2. Hands-on Exercise on the "For" Loop
-3. Nested For Loop
-4. Hands-on Exercise on the "Nested For" Loop
-5. While and Do While Loop in Java
-6. Loop "Break" and "Continue" Statements
-7. Switch Statement and Implementation in Java
+1. [For Loop in Java](./Week%201/Module_3_Looping%20Statements%20in%20Java.md#1-for-loop-in-java)
+2. [Hands-on Exercise on the "For" Loop](./Week%201/Module_3_Looping%20Statements%20in%20Java.md#2-hands-on-exercise-on-the-for-loop)
+3. [Nested For Loop](./Week%201/Module_3_Looping%20Statements%20in%20Java.md#3-nested-for-loop)
+4. [Hands-on Exercise on the "Nested For" Loop](./Week%201/Module_3_Looping%20Statements%20in%20Java.md#4-hands-on-exercise-on-the-nested-for-loop)
+5. [While and Do While Loop in Java](./Week%201/Module_3_Looping%20Statements%20in%20Java.md#5-while-and-do-while-loop-in-java)
+6. [Loop "Break" and "Continue" Statements](./Week%201/Module_3_Looping%20Statements%20in%20Java.md#6-loop-break-and-continue-statements)
+7. [Switch Statement and Implementation in Java](./Week%201/Module_3_Looping%20Statements%20in%20Java.md#7-switch-statement-and-implementation-in-java)
 
 #### [Module 4: Arrays](./Week%201/Module_4_Arrays.md)
 
-1. Arrays in Java
-2. Array Object
-3. Modified/Enhanced "For" loop
-4. Array Exercise
-5. Two-dimensional (2D) Arrays
-6. Two-dimensional (2D) Array Exercise
+1. [Arrays in Java](./Week%201/Module_4_Arrays.md#1-arrays-in-java)
+2. [Array Object](./Week%201/Module_4_Arrays.md#2-array-object)
+3. [Modified/Enhanced "For" loop](./Week%201/Module_4_Arrays.md#3-modifiedenhanced-for-loop)
+4. [Array Exercise](./Week%201/Module_4_Arrays.md#4-array-exercise)
+5. [Two-dimensional (2D) Arrays](./Week%201/Module_4_Arrays.md#5-two-dimensional-2d-arrays)
+6. [Two-dimensional (2D) Array Exercise](./Week%201/Module_4_Arrays.md#6-two-dimensional-2d-array-exercise)
 
 #### [Module 5: String, String builder, String buffer](./Week%201)
 
