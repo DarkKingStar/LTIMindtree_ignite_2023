@@ -55,3 +55,5 @@ A flowchart is a visual representation of an algorithm. It uses various shapes t
 ```
 
 These are powerful tools that help programmers plan, communicate, and implement solutions effectively.
+
+[next](./Module_2_Java%20Programming%20Fundamentals.md)
