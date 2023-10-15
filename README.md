@@ -4,12 +4,12 @@
 
 ### [Week 1](./Week%201)
 
-#### [Module 1: Programming Fundamentals](./week%201/Module_1_Programming%20Fundamentals.md)
+#### [Module 1: Programming Fundamentals](./Week%201/Module_1_Programming%20Fundamentals.md)
 
 1. What is Programming?
 2. What is Algorithm, Pseudocode and Flowchart?
 
-#### [Module 2: Java Programming Fundamentals](./week%201/Module_2_Java%20Programming%20Fundamentals.md)
+#### [Module 2: Java Programming Fundamentals](./Week%201/Module_2_Java%20Programming%20Fundamentals.md)
 
 1. Java Development Kit (JDK) Installation
 2. Eclipse Installation
@@ -22,7 +22,7 @@
 9. Nested If - Condition
 10. Typecasting
 
-#### [Module 3: Looping Statemen](./week%201/Module_3_Looping%20Statements%20in%20Java.md)
+#### [Module 3: Looping Statemen](./Week%201/Module_3_Looping%20Statements%20in%20Java.md)
 
 1. For Loop in Java
 2. Hands-on Exercise on the "For" Loop
