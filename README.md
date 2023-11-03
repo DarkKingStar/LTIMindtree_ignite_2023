@@ -5,10 +5,10 @@
 |       Week       |                    Type                   | Modules  |
 | ---------------- | ----------------------------------------- | -------- |
 | [Week 1](#week-1)|                    Java                   |    7     |
-| [Week 2](#week-2)|                    DBMS                   |    8     |
-| [Week 3](#week-3)|   MongoDB - Html/Css Js cloud computing   |    4     |
-| [Week 4](#week-4)|                   Python                  |    5     |
-| [Week 5](#week-5)|              Java Collections             |    5     |
+| Week 2           |                    DBMS                   |    8     |
+| Week 3           |   MongoDB - Html/Css Js cloud computing   |    4     |
+| Week 4           |                   Python                  |    5     |
+| [Week 5](#week-5)|          Java Collections Framework       |    5     |
 
 
 ### [Week 1](./Week%201)
