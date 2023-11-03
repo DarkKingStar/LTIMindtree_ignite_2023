@@ -8,7 +8,7 @@
 | [Week 2](#week-2)|                    DBMS                   |    8     |
 | [Week 3](#week-3)|   MongoDB - Html/Css Js cloud computing   |    4     |
 | [Week 4](#week-4)|                   Python                  |    5     |
-| [Week 5](#week-5)|              Java collections             |    5     |
+| [Week 5](#week-5)|              Java Collections             |    5     |
 
 
 ### [Week 1](./Week%201)
@@ -273,7 +273,7 @@
 
 #### [Module 1: List](./Week%205/Module_1_List.md)
 
-1. [Array List](./Week%205/Module_1_List.md#ArrayList)
+1. [Array List](./Week%205/Module_1_List.md#1-arraylist)
 2. [Linked List Structure](./Week%205/Module_1_List.md#2-linked-list-structure)
 3. [Linked List](./Week%205/Module_1_List.md#3-linkedlist)
 4. [ArrayList vs. LinkedList](./Week%205/Module_1_List.md#4-arraylist-vs-linkedlist)
