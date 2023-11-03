@@ -97,5 +97,3 @@ while (iterator.hasNext()) {
 ```
 
 In this example, we create an `ArrayList` of names and use a `ListIterator` to iterate through the list.
-
-These detailed explanations should provide you with a strong foundation in working with lists in Java. If you have any further questions or need additional information, feel free to ask!
