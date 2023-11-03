@@ -79,5 +79,3 @@ while (iterator.hasNext()) {
 ```
 
 In this example, we create an `ArrayList` of names and use a `ListIterator` to iterate through the list.
-
-Understanding these list implementations and their respective strengths is important for efficiently managing collections of data in Java. If you have any questions or need further clarification, feel free to ask!
