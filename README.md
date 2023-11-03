@@ -2,13 +2,21 @@
 
 ## Syllabus
 
-|       Week       |                    Type                   | Modules  |
-| ---------------- | ----------------------------------------- | -------- |
-| [Week 1](#week-1)|                    Java                   |    7     |
-| Week 2           |                    DBMS                   |    8     |
-| Week 3           |   MongoDB - Html/Css Js cloud computing   |    4     |
-| Week 4           |                   Python                  |    5     |
-| [Week 5](#week-5)|          Java Collections Framework       |    5     |
+|       Week       |                    Type                      | Modules  |
+| ---------------- | -------------------------------------------- | -------- |
+| [Week 1](#week-1)|                    Java                      |    7     |
+| [Week 5](#week-5)|                    DBMS                      |    8     |
+| [Week 5](#week-5)|   MongoDB - Html/Css Js cloud computing      |    4     |
+| [Week 5](#week-5)|                   Python                     |    5     |
+| [Week 5](#week-5)|          Java Collections Framework          |    5     |
+| [Week 6](#week-6)|            Java Exception Handling           |    4     |
+| [Week 7](#week-7)|           Java File System and JDBC          |    5     |
+| [Week 8](#week-8)|   Maven, Github, Chain Exception and JS      |    7     |
+| [Week 9](#week-9)|TypeScript, Arrow Functions, Class and Angular|    8     |
+
+
+
+
 
 
 ### [Week 1](./Week%201)
