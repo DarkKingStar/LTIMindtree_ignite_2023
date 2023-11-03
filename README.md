@@ -272,7 +272,6 @@
 ### [Week 5](./Week%205)
 
 #### [Module 1: List](./Week%205/Module_1_List.md)
-2. [Eclipse Installation](./Week%201/Module_2_Java%20Programming%20Fundamentals.md#2-eclipse-installation)
 
 1. [Array List](./Week%205/Module_1_List.md#ArrayList)
 2. Linked List Structure
