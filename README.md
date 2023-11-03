@@ -297,14 +297,14 @@
 6. [Tree Map](./Week%205/Module_2_Set_and_Maps.md#6-treemap)
 7. [Iterating on Maps](./Week%205/Module_2_Set_and_Maps.md#7-iterating-over-maps)
 
-#### Module 3: Finalize and Garbage collector (6/6)
+#### [Module 3: Finalize and Garbage collector](./Week%205/Module_3_Finalize_and_Garbage_Collector.md)
 
-1. Finalize
-2. Garbage Collectors
-3. Demo - Garbage Collectors and Finalize
-4. Final Keyword
-5. Access Specifiers in Java
-6. JARs
+1. [Finalize]()
+2. [Garbage Collectors]()
+3. [Demo - Garbage Collectors and Finalize]()
+4. [Final Keyword]()
+5. [Access Specifiers in Java]()
+6. [JARs]()
 
 #### Module 4: Collections (4/4)
 
