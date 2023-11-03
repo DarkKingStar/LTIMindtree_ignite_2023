@@ -7,6 +7,8 @@
 | [Week 1](#week-1)|                    Java                   |    7     |
 | [Week 2](#week-2)|                    DBMS                   |    8     |
 | [Week 3](#week-3)|   MongoDB - Html/Css Js cloud computing   |    4     |
+| [Week 4](#week-4)|                   Python                  |    5     |
+| [Week 5](#week-5)|              Java collections             |    5     |
 
 
 ### [Week 1](./Week%201)
@@ -267,11 +269,12 @@
 12. Interface - 1
 13. Interface - 2
 
-### Week 5
+### [Week 5](./Week%205)
 
-#### Module 1: List (5/5)
+#### [Module 1: List](./Week%205/Module_1_List.md)
+2. [Eclipse Installation](./Week%201/Module_2_Java%20Programming%20Fundamentals.md#2-eclipse-installation)
 
-1. Array List
+1. [Array List](./Week%205/Module_1_List.md#ArrayList)
 2. Linked List Structure
 3. Linked List
 4. ArrayList vs. LinkedList
