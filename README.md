@@ -274,10 +274,10 @@
 #### [Module 1: List](./Week%205/Module_1_List.md)
 
 1. [Array List](./Week%205/Module_1_List.md#ArrayList)
-2. Linked List Structure
-3. Linked List
-4. ArrayList vs. LinkedList
-5. List Iterator
+2. [Linked List Structure](./Week%205/Module_1_List.md#2-linked-list-structure)
+3. [Linked List](./Week%205/Module_1_List.md#3-linkedlist)
+4. [ArrayList vs. LinkedList](./Week%205/Module_1_List.md#4-arraylist-vs-linkedlist)
+5. [List Iterator](./Week%205/Module_1_List.md#5-list-iterator)
 
 #### Module 2: Set and Maps (7/7)
 
