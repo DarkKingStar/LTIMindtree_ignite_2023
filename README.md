@@ -279,15 +279,15 @@
 4. [ArrayList vs. LinkedList](./Week%205/Module_1_List.md#4-arraylist-vs-linkedlist)
 5. [List Iterator](./Week%205/Module_1_List.md#5-list-iterator)
 
-#### Module 2: Set and Maps (7/7)
+#### [Module 2: Set and Maps](./Week%205/Module_2_Set_and_Maps.md)
 
-1. Hash Set
-2. Linked Hash Set
-3. Tree Set
-4. Iterating over Sets
-5. Hash Map
-6. Tree Map
-7. Iterating on Maps
+1. [Hash Set](./Week%205/Module_2_Set_and_Maps.md#1-hashset)
+2. [Linked Hash Set](./Week%205/Module_2_Set_and_Maps.md#2-linkedhashset)
+3. [Tree Set](./Week%205/Module_2_Set_and_Maps.md#3-treeset)
+4. [Iterating over Sets](./Week%205/Module_2_Set_and_Maps.md#4-iterating-over-sets)
+5. [Hash Map](./Week%205/Module_2_Set_and_Maps.md#5-hashmap)
+6. [Tree Map](./Week%205/Module_2_Set_and_Maps.md#6-treemap)
+7. [Iterating on Maps](./Week%205/Module_2_Set_and_Maps.md#7-iterating-over-maps)
 
 #### Module 3: Finalize and Garbage collector (6/6)
 
