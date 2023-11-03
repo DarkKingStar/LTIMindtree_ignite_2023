@@ -299,12 +299,12 @@
 
 #### [Module 3: Finalize and Garbage collector](./Week%205/Module_3_Finalize_and_Garbage_Collector.md)
 
-1. [Finalize]()
-2. [Garbage Collectors]()
-3. [Demo - Garbage Collectors and Finalize]()
-4. [Final Keyword]()
-5. [Access Specifiers in Java]()
-6. [JARs]()
+1. [Finalize](#1-finalize)
+2. [Garbage Collectors](#2-garbage-collectors)
+3. [Demo - Garbage Collectors and Finalize](#3-demo---garbage-collectors-and-finalize)
+4. [Final Keyword](#4-final-keyword)
+5. [Access Specifiers in Java](#5-access-specifiers-in-java)
+6. [JARs](#6-jars)
 
 #### Module 4: Collections (4/4)
 
